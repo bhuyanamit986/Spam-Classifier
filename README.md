@@ -10,3 +10,4 @@ Precision score:  0.9720670391061452
 Recall score:  0.9405405405405406
 
 F1 score:  0.9560439560439562
+https://predictspam.herokuapp.com/
